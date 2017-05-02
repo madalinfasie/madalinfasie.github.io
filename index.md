@@ -3,16 +3,16 @@
 Here you can see a short description of my abilities and professional experience. I am a communicative person, passionate about science and technology and eager to learn something new every day. In my free time I like to cook and read about what's new in the fields I mentioned before.
 
 
-### Education
+## Education
 
-## Master's Degree (2016 – present)
+### Master's Degree (2016 – present)
 University of Bucharest, Faculty of Mathematics and Computer Science, Data Bases and Web Technologies
 - Professional Applications with Object Oriented Data Bases
 - Data Mining
 - Information Retrieval
 - Programming under Linux Operating System
 
-## Bachelor's Degree (2013 – 2016)
+### Bachelor's Degree (2013 – 2016)
 University of Bucharest, Faculty of Mathematics and Computer Science, Applied Mathematics
 - Financial Mathematics
 - Probabilities
@@ -20,7 +20,7 @@ University of Bucharest, Faculty of Mathematics and Computer Science, Applied Ma
 - Operational Research
 - Astronomy
 
-### Personal Projects
+## Personal Projects
 
 No. | Project Name | Programming Language
 --- | ------------ | --------------------
@@ -28,9 +28,9 @@ No. | Project Name | Programming Language
 2.  | [Mover](https://github.com/madalinfasie/Mover.git) | Python 3
 3.  | [NewsReader](https://github.com/madalinfasie/NewsReader) | Java - Android
 
-### Resources
+## Resources
 
 Following is a list of sites that helped me understand more about programming:
 - [TutorialsPoint.com](https://www.tutorialspoint.com/)
 - [PythonProgramming.net](https://pythonprogramming.net/)
-- and, of course, the one and only [StackOverflow](http://stackoverflow.com/)
+- and, of course, [StackOverflow](http://stackoverflow.com/)
