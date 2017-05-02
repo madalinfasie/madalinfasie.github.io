@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/madalinfasie/madalinfasie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can see a short description of my abilities and professional experience. I am a communicative person, passionate about science and technology and eager to learn something new every day. In my free time I like to cook and read about what's new in the fields I mentioned before.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Master's Degree (2016 – present)
+University of Bucharest, Faculty of Mathematics and Computer Science, Data Bases and Web Technologies
+- Professional Applications with Object Oriented Data Bases
+- Data Mining
+- Information Retrieval
+- Programming under Linux Operating System
 
-```markdown
-Syntax highlighted code block
+## Bachelor's Degree (2013 – 2016)
+University of Bucharest, Faculty of Mathematics and Computer Science, Applied Mathematics
+- Financial Mathematics
+- Probabilities
+- Statistics
+- Operational Research
+- Astronomy
 
-# Header 1
-## Header 2
-### Header 3
+### Personal Projects
 
-- Bulleted
-- List
+No. | Project Name | Programming Language
+--- | ------------ | --------------------
+1.  | [NotesAndEvents](https://github.com/madalinfasie/NotesAndEvents.git) | Java - Swing
+2.  | [Mover](https://github.com/madalinfasie/Mover.git) | Python 3
+3.  | [NewsReader](https://github.com/madalinfasie/NewsReader) | Java - Android
 
-1. Numbered
-2. List
+### Resources
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madalinfasie/madalinfasie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Following is a list of sites that helped me understand more about programming:
+- [TutorialsPoint.com](https://www.tutorialspoint.com/)
+- [PythonProgramming.net](https://pythonprogramming.net/)
+- and, of course, the one and only [StackOverflow](http://stackoverflow.com/)
