@@ -1,4 +1,4 @@
-## Welcome
+# Welcome to my page
 
 Here you can see a short description of my abilities and professional experience. I am a communicative person, passionate about science and technology and eager to learn something new every day. In my free time I like to cook and read about what's new in the fields I mentioned before.
 
@@ -35,3 +35,7 @@ Following is a list of sites that helped me understand more about programming:
 - [TutorialsPoint.com](https://www.tutorialspoint.com/)
 - [PythonProgramming.net](https://pythonprogramming.net/)
 - and, of course, [StackOverflow](http://stackoverflow.com/)
+
+## Contact
+
+For any additional information, you can check my LinkedIn profile [here](https://www.linkedin.com/in/madaliniliefasie/) or send me an email at: fasie.madalin@yahoo.com
