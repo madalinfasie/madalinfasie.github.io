@@ -27,6 +27,7 @@ No. | Project Name | Programming Language
 1.  | [NotesAndEvents](https://github.com/madalinfasie/NotesAndEvents.git) | Java - Swing
 2.  | [Mover](https://github.com/madalinfasie/Mover.git) | Python 3
 3.  | [NewsReader](https://github.com/madalinfasie/NewsReader) | Java - Android
+4.  | [infoteca.ro](https://infotecaro.wordpress.com/) | Blog
 
 ## Resources
 
